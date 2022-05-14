@@ -2,7 +2,7 @@
 
 全网最全-币圈各类常用工具与相关信息大全
 
-## 汇总
+## [汇总](#软件钱包)
 
 # 数据
 
@@ -39,7 +39,7 @@
 2. [前1000名以太坊钱包追踪](https://www.whalestats.com/)
 3. [nftgo](nftgo.io)巨鲸追踪分析工具
 
-`<span id="jump">`## 新闻媒体
+## 新闻媒体
 
 ### 中文
 
@@ -93,7 +93,7 @@
 
 1. [Tokenpocket](https://www.tokenpocket.pro/)
 2. [Metamask](https://metamask.io/)
-3. [Iamtoken](https://www.token.im/)
+3. [Imtoken](https://www.token.im/)
 
 ### 硬件钱包
 
