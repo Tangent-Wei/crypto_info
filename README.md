@@ -1,8 +1,23 @@
-# 全网最全-币圈各类常用工具与相关信息大全
+* [ ] 全网最全-币圈各类常用工具与相关信息大全
 
 ## 导航
 
 [数据分析](#数据分析) [巨鲸追踪](#巨鲸追踪) [新闻媒体](#新闻媒体) [NFT工具](#NFT工具) [DAO工具](#DAO工具) [Defi工具](#Defi工具) [跨链](#跨链) [加密钱包](#加密钱包) [顶级投资机构](#顶级投资机构)
+
+# 中心化大所
+
+1. [欧易](https://www.ouyicn.wang/join/18830268)（OKX，前Okex）
+   国内交易量第一。目前**唯一一个**允许大陆新用户注册的头部交易所。使用此邀请码：**18830268** 可以永久减20%手续费。提醒：一旦注册完成就**不再**会有永久减免的机会，注册时务必使用邀请码，土豪可忽略。
+2. [币安](https://accounts.binance.com/zh-CN/register?ref=25203322)（Binance）
+   全球交易量第一。中国大陆注册币安国际版方法：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723 "币安交易所新号注册及身份证KYC过审")
+3. [芝麻开门](https://www.gate.tv/cn)（Gate.io）
+   山寨币数量最多
+4. FTX
+   金融衍生品第一
+5. 抹茶
+   山寨币上新最快
+6. Bybit
+   香港和台湾地区用得多
 
 # 数据分析
 
@@ -80,37 +95,37 @@
 1. [Snapshot](https://snapshot.org/#/)  [Tally](https://www.withtally.com/)
    项目社区投票治理平台
 2. [daomaster](https://www.daomasters.xyz/)
-DAO管理工具
+   DAO管理工具
 3. [Deepdao](https://deepdao.io/#/deepdao/dashboard)
-DAO生态数据门户
+   DAO生态数据门户
 4. [Daomaker](https://daomaker.com/)
-DAO孵化和启动项目
+   DAO孵化和启动项目
 5. [Daocentral](https://daocentral.com/)
-Dao2Dao产品和服务
+   Dao2Dao产品和服务
 
 ## Defi工具
 
 1. [Uniswap](https://uniswap.org/)
-以太坊/dex龙头交易所
+   以太坊/dex龙头交易所
 2. [Pancakeswap](https://pancakeswap.finance/)
-BSC币安智能链龙头交易所
+   BSC币安智能链龙头交易所
 3. [Dydx](https://dydx.exchange/)
-去中心化合约交易所 
+   去中心化合约交易所
 4. [DEXtools](https://www.dextools.io/app/)
-Dex综合K线工具
+   Dex综合K线工具
 5. [Defipulse](https://defipulse.com/)
-Defi项目市场数据
+   Defi项目市场数据
 6. [APY](https://apy.top/)
-查看质押收益
+   查看质押收益
 
 ## 跨链
 
 1. [Swft](https://www.swftc.info/)
-支持多种公链互跨
+   支持多种公链互跨
 2. [Crosschaintool](https://tools.defieye.io/bridge/)
-跨链手续费计算
+   跨链手续费计算
 3. [Anyswap](https://anyswap.exchange/swap#/bridge)
-多种币种跨链闪兑
+   多种币种跨链闪兑
 
 ## 加密钱包
 
