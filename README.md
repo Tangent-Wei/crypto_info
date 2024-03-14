@@ -11,14 +11,14 @@
 
 ## 中心化大所
 
-1. **[欧易](https://www.ouyicn.wang/join/18830268)（OKX，前Okex）**[备用链接](https://www.okx.com/join/18830268)
-    国内交易量第一。最适合大陆新用户注册的头部交易所。使用此邀请码：**18830268** 可以永久减20%手续费。提醒：一旦注册完成就**不再**会有永久减免的机会，注册时务必使用邀请码，已注册过可以用家人的信息注册个新号。一年下来，可以节省很多手续费。安卓手机可以直接下载App，苹果手机需要海外ID：[欧易交易所注册流程](https://dear-vision-808.notion.site/b22c9793f8c74283993e8a0dc08ca320)。注册好之后，记得领取数字货币盲盒，会随机发一些热门的币，白嫖。然后根据自己的需求可以在c2c使用微信/支付宝/银行卡等入金，或者让好友通过UID给你转币。
+1. **[欧易](https://www.ouyicn.wang/join/github123)（OKX，前Okex）**[备用链接](https://www.okx.com/join/github123)
+    国内交易量第一。最适合大陆新用户注册的头部交易所。使用此邀请码：**github123** 可以永久减20%手续费。提醒：一旦注册完成就**不再**会有永久减免的机会，注册时务必使用邀请码。安卓手机可以直接下载App，苹果手机需要海外ID：[欧易交易所注册流程](https://dear-vision-808.notion.site/b22c9793f8c74283993e8a0dc08ca320)。注册好之后，记得领取**数字货币盲盒**，会随机发一些热门的币，白嫖。然后根据自己的需求可以在c2c使用微信/支付宝/银行卡等入金，或者让好友通过UID给你转币。
 
 2. **[币安](https://accounts.binance.com/zh-CN/register?ref=25203322)（Binance）**
     全球交易量第一。若注册遇到问题，可参考：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
 
-3. **[芝麻开门](https://www.gate.ac/signup/1094920)（Gate.io）**[备用链接](https://www.gate.io/signup/1094920)
-    山寨币数量最多。
+3. **[芝麻开门](https://www.gate.ac/signup/VlEWUFlX?ref_type=103)（Gate.io）**[备用链接](https://www.gate.io/signup/VlEWUFlX?ref_type=103)
+    山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币。币圈老人必备。
 
 4. **[FTX](http://ftx.com)**
     曾经金融衍生品第一(已凉)
