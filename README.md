@@ -19,7 +19,7 @@
     </p>
 
 
-2. **[币安（免翻墙）](https://accounts.suitechsui.biz/en/register?ref=25203322)**[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=25203322)（Binance）
+2. **[币安（免翻墙）](https://accounts.suitechsui.biz/en/register?ref=25203322)**（Binance）[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=25203322)
     全球交易量第一。若注册遇到问题，可参考：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
 
 3. **[芝麻开门](https://www.gate.ac/signup/VlEWUFlX?ref_type=103)（Gate.io）**[备用链接（需要翻墙）](https://www.gate.io/signup/VlEWUFlX?ref_type=103)
