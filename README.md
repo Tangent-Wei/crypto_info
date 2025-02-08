@@ -24,8 +24,8 @@
 3. **[芝麻开门](https://www.gate.ac/signup/VlEWUFlX?ref_type=103)（Gate.io）**[备用链接（需要翻墙）](https://www.gate.io/signup/VlEWUFlX?ref_type=103)
     山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币，所以很多币圈老人会在芝麻埋伏好，一旦上了欧易币安就开始变现。注册好之后，记得领取**数字货币盲盒**。玩现货推荐用芝麻开门。使用此邀请码：**VlEWUFlX** 可以永久减免手续费。
 
-4. **[FTX](http://ftx.com)**
-    曾经金融衍生品第一(已凉)
+4. **[Bitget](https://www.bitget.com/zh-CN/referral/register?clacCode=TWJUFSKL&from=%2Fzh-CN%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)**
+    Bitget 是一家全球性的加密货币交易平台，成立于 2018 年，总部位于新加坡。它主要提供现货交易、合约交易（期货）、质押和收益等多种加密货币金融服务。Bitget 以其合约交易（尤其是 USDT 本位和币本位合约）和一键跟单（Copy Trading）功能而闻名，吸引了大量交易者，特别是合约交易用户。
 
 5. **[抹茶](https://www.mexc.com/)**
     山寨币上新最快，但是退出大陆市场后，国内用户基本流失。
