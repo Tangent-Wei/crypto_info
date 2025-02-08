@@ -26,15 +26,15 @@
 
 4. **[Bitget](https://www.bitget.com/zh-CN/referral/register?clacCode=TWJUFSKL&from=%2Fzh-CN%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)**
     Bitget 是一家全球性的加密货币交易平台，成立于 2018 年，总部位于新加坡。它主要提供现货交易、合约交易（期货）、质押和收益等多种加密货币金融服务。Bitget 以其合约交易（尤其是 USDT 本位和币本位合约）和一键跟单（Copy Trading）功能而闻名，吸引了大量交易者，特别是合约交易用户。
-
-5. **[抹茶](https://www.mexc.com/)**
+5. **[火币](https://www.htx.com/invite/zh-cn/1f?invite_code=t5bw8223)**
+    曾是国内最大交易所，清退大陆用户后由孙宇晨接手，仍有很大关注度。
+6. **[抹茶](https://www.mexc.com/)**
     山寨币上新最快，但是退出大陆市场后，国内用户基本流失。
 
-6. **[Bybit](https://www.bybit.com/)**
+7. **[Bybit](https://www.bybit.com/)**
     香港和台湾地区用得多
 
-7. **[火币](https://www.htx.com/invite/zh-cn/1f?invite_code=t5bw8223)**
-    曾是国内最大交易所，清退大陆用户后由孙宇晨接手，仍有很大关注度。
+
 
 - 这些平台各自提供不同的服务和特点，从支持的币种、用户界面、交易费用到安全性等方面都有所不同，适合不同需求的用户选择。请注意，投资加密货币存在风险，包括市场波动和平台风险，投资前应充分了解并评估。
 
