@@ -11,18 +11,18 @@
 
 ## 中心化大所
   - 欧易、币安、芝麻这三个是中国大陆用户必备的，建议都注册一下，他们都会对新用户进行奖励，一般会送一些币，可以撸一波羊毛。
-1. **[欧易（免翻墙）](https://www.ouyicn.wang/join/github123)（OKX，前Okex）**[备用链接（需翻墙）](https://www.okx.com/join/github123)
+1. **[欧易（免翻墙）](https://www.chouyi.pro/join/github123)（OKX，前Okex）**[备用链接（需翻墙）](https://www.okx.com/join/github123)
     国内交易量第一。最适合大陆新用户注册的头部交易所。使用此邀请码：**github123** 可以永久减20%手续费。提醒：一旦注册完成就**不再**会有永久减免的机会，注册时务必使用邀请码。安卓手机可以直接下载App，苹果手机需要海外ID：[欧易交易所注册流程](https://dear-vision-808.notion.site/b22c9793f8c74283993e8a0dc08ca320)。注册好之后，记得领取**数字货币盲盒**，会随机发一些热门的币，白嫖。然后根据自己的需求可以在c2c使用微信/支付宝/银行卡等入金，或者让好友通过UID给你转币。国内用户首选欧易。
     <!-- ![okx_box](https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/okx_box.png) -->
     <p align="center">
     <img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/okx_box.png" alt="盲盒" width="310" height="300">
     </p>
 
-2. **[币安（免翻墙）](https://accounts.suitechsui.biz/en/register?ref=25203322)**（Binance）[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=25203322)
-    全球交易量第一。若注册遇到问题，可参考：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
+2. **[币安（免翻墙）](https://accounts.marketwebb.ac/register?ref=25203322)**（Binance）[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=25203322)
+    全球交易量第一。使用此邀请码：**25203322** 可以永久减免手续费。若注册遇到问题，可参考：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
 
 3. **[芝麻开门](https://www.gate.ac/signup/VlEWUFlX?ref_type=103)（Gate.io）**[备用链接（需要翻墙）](https://www.gate.io/signup/VlEWUFlX?ref_type=103)
-    山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币，所以很多币圈老人会在芝麻埋伏好，一旦上了欧易币安就开始变现。注册好之后，记得领取**数字货币盲盒**。玩现货推荐用芝麻开门。
+    山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币，所以很多币圈老人会在芝麻埋伏好，一旦上了欧易币安就开始变现。注册好之后，记得领取**数字货币盲盒**。玩现货推荐用芝麻开门。使用此邀请码：**VlEWUFlX** 可以永久减免手续费。
 
 4. **[FTX](http://ftx.com)**
     曾经金融衍生品第一(已凉)
