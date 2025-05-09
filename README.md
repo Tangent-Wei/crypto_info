@@ -287,6 +287,7 @@ DAO（去中心化自治组织）是基于区块链技术的一种组织形式�
 
 
 
+
 ## 顶级投资机构
 
 1. **[币安实验室](https://labs.binance.com/)**  
@@ -300,5 +301,174 @@ DAO（去中心化自治组织）是基于区块链技术的一种组织形式�
 5. **[Alameda Research](https://www.alameda-research.com/ventures)**  
   由Sam Bankman-Fried创立，是一个量化交易公司和加密货币投资者，通过其风险投资部门投资于加密生态系统。
 6. **[Multicoin Capital](https://multicoin.capital/zh/portfolio/)**  专注于加密货币和区块链技术的全球性资产管理公司，投资于加密领域的创新项目和公司。
+
+
+
+## 社交媒体值得关注的账号
+
+### 10 大板块重要Twitter 账号
+
+| 板块         | Twitter                                                    | 标签                |
+| ---------- | ---------------------------------------------------------- | ----------------- |
+| 核心创始/技术    | [@VitalikButerin](https://twitter.com/VitalikButerin)      | 以太坊共同创始人          |
+|            | [@gavofyork](https://twitter.com/gavofyork)                | Polkadot 创始人      |
+|            | [@IOHK\_Charles](https://twitter.com/IOHK_Charles)         | Cardano 创始人       |
+|            | [@cz\_binance](https://twitter.com/cz_binance)             | Binance 创始人       |
+|            | [@brian\_armstrong](https://twitter.com/brian_armstrong)   | Coinbase CEO      |
+|            | [@aeyakovenko](https://twitter.com/aeyakovenko)            | Solana 创始人        |
+|            | [@haydenzadams](https://twitter.com/haydenzadams)          | Uniswap 创始人       |
+|            | [@StaniKulechov](https://twitter.com/StaniKulechov)        | Aave 创始人          |
+|            | [@justinsuntron](https://twitter.com/justinsuntron)        | Tron 创始人          |
+|            | [@RuneKek](https://twitter.com/RuneKek)                    | MakerDAO 创始人      |
+|            | [@BarrySilbert](https://twitter.com/BarrySilbert)          | DCG 创始人           |
+|            | [@rogerkver](https://twitter.com/rogerkver)                | “Bitcoin Jesus”   |
+|            | [@ErikVoorhees](https://twitter.com/ErikVoorhees)          | ShapeShift 创始     |
+|            | [@RichardHeartWin](https://twitter.com/RichardHeartWin)    | PulseChain 创始     |
+| 投资人/思想     | [@balajis](https://twitter.com/balajis)                    | 前 Coinbase CTO    |
+|            | [@cdixon](https://twitter.com/cdixon)                      | a16z Crypto       |
+|            | [@pmarca](https://twitter.com/pmarca)                      | a16z 联合创始         |
+|            | [@CathieDWood](https://twitter.com/CathieDWood)            | ARK Invest CEO    |
+|            | [@DTAPCAP](https://twitter.com/DTAPCAP)                    | 10T Holdings      |
+|            | [@KyleSamani](https://twitter.com/KyleSamani)              | Multicoin         |
+|            | [@TusharJain\_](https://twitter.com/TusharJain_)           | Multicoin         |
+|            | [@matthuang](https://twitter.com/matthuang)                | Paradigm          |
+|            | [@FEhrsam](https://twitter.com/FEhrsam)                    | Paradigm          |
+|            | [@avichal](https://twitter.com/avichal)                    | Electric Capital  |
+|            | [@zxocw](https://twitter.com/zxocw)                        | Polychain         |
+|            | [@saylor](https://twitter.com/saylor)                      | MicroStrategy     |
+| 研究/媒体      | [@coindesk](https://twitter.com/coindesk)                  | 行业新闻              |
+|            | [@TheBlock\_\_](https://twitter.com/TheBlock__)            | 研究媒体              |
+|            | [@WuBlockchain](https://twitter.com/WuBlockchain)          | 中英快讯              |
+|            | [@MessariCrypto](https://twitter.com/MessariCrypto)        | 研报平台              |
+|            | [@glassnode](https://twitter.com/glassnode)                | 链上数据              |
+|            | [@intotheblock](https://twitter.com/intotheblock)          | 数据洞察              |
+|            | [@coinbureau](https://twitter.com/coinbureau)              | 教程频道              |
+|            | [@laurashin](https://twitter.com/laurashin)                | Unchained         |
+|            | [@CamiRusso](https://twitter.com/CamiRusso)                | The Defiant       |
+|            | [@twobitidiot](https://twitter.com/twobitidiot)            | Messari CEO       |
+|            | [@adamscochran](https://twitter.com/adamscochran)          | 深度科普              |
+|            | [@100trillionUSD](https://twitter.com/100trillionUSD)      | PlanB S2F         |
+|            | [@santimentfeed](https://twitter.com/santimentfeed)        | 市场情绪              |
+|            | [@PositiveCrypto](https://twitter.com/PositiveCrypto)      | LookIntoBitcoin   |
+| 链上/宏观      | [@cryptoquant\_com](https://twitter.com/cryptoquant_com)   | CryptoQuant       |
+|            | [@*Checkmatey*](https://twitter.com/_Checkmatey_)          | Glassnode 分析      |
+|            | [@dilutionproof](https://twitter.com/dilutionproof)        | 长周期研究             |
+|            | [@rektcapital](https://twitter.com/rektcapital)            | 周期派               |
+|            | [@IT\_Tech\_PL](https://twitter.com/IT_Tech_PL)            | 链上+技术面            |
+|            | [@ASvanevik](https://twitter.com/ASvanevik)                | Nansen CEO        |
+|            | [@Dune](https://twitter.com/Dune)                          | Dune Analytics    |
+|            | [@WillyWoo](https://twitter.com/WillyWoo)                  | 链上先驱              |
+|            | [@intocryptoverse](https://twitter.com/intocryptoverse)    | Benjamin Cowen    |
+| 图表派/KOL    | [@CryptoCred](https://twitter.com/CryptoCred)              | 技术面教程             |
+|            | [@CryptoDonAlt](https://twitter.com/CryptoDonAlt)          | 波段交易              |
+|            | [@Pentosh1](https://twitter.com/Pentosh1)                  | 宏观+图表             |
+|            | [@TraderSZ](https://twitter.com/TraderSZ)                  | 订单流               |
+|            | [@TheCryptoDog](https://twitter.com/TheCryptoDog)          | 波段综述              |
+|            | [@IncomeSharks](https://twitter.com/IncomeSharks)          | 指标混合              |
+|            | [@tradermayne](https://twitter.com/tradermayne)            | 高杠杆日内             |
+|            | [@galaxyBTC](https://twitter.com/galaxyBTC)                | BTC 专注            |
+|            | [@Rager](https://twitter.com/Rager)                        | 水平线画手             |
+|            | [@CryptoKaleo](https://twitter.com/CryptoKaleo)            | 叙事动能              |
+|            | [@smartcontracter](https://twitter.com/smartcontracter)    | 5 浪理论             |
+|            | [@AltcoinPsycho](https://twitter.com/AltcoinPsycho)        | 新币猎手              |
+|            | [@ColdBloodShill](https://twitter.com/ColdBloodShill)      | Meme 达人           |
+|            | [@Bluntz\_Capital](https://twitter.com/Bluntz_Capital)     | 结构派               |
+|            | [@Anbessa100](https://twitter.com/Anbessa100)              | 复盘 guru           |
+| DeFi 建设    | [@thedefiedge](https://twitter.com/thedefiedge)            | DeFi 投研           |
+|            | [@thedefiinvestor](https://twitter.com/thedefiinvestor)    | 策略科普              |
+|            | [@DeFi\_Dad](https://twitter.com/DeFi_Dad)                 | 实操教程              |
+|            | [@BanklessHQ](https://twitter.com/BanklessHQ)              | Bankless 媒体       |
+|            | [@RyanSAdams](https://twitter.com/RyanSAdams)              | Bankless 主播       |
+|            | [@cobie](https://twitter.com/cobie)                        | UpOnly 主播         |
+|            | [@AndreCronjeTech](https://twitter.com/AndreCronjeTech)    | Yearn 创始          |
+|            | [@0xMaki](https://twitter.com/0xMaki)                      | Sushi 创始          |
+|            | [@kaiynne](https://twitter.com/kaiynne)                    | Synthetix 创始      |
+|            | [@hosseeb](https://twitter.com/hosseeb)                    | Dragonfly GP      |
+| NFT/元宇宙    | [@beeple](https://twitter.com/beeple)                      | 数字艺术家             |
+|            | [@punk6529](https://twitter.com/punk6529)                  | 元宇宙倡导             |
+|            | [@gmoneyNFT](https://twitter.com/gmoneyNFT)                | 高端 NFT            |
+|            | [@farokh](https://twitter.com/farokh)                      | RugRadio          |
+|            | [@Zeneca\_33](https://twitter.com/Zenca_33)                | NFT 情报            |
+|            | [@garyvee](https://twitter.com/garyvee)                    | VeeFriends        |
+|            | [@punk9059](https://twitter.com/punk9059)                  | NFT 数据            |
+|            | [@osf\_nft](https://twitter.com/osf_nft)                   | Rekt Guy          |
+|            | [@andrwwang](https://twitter.com/andrwwang)                | NFT 记者            |
+|            | [@CozomoMedici](https://twitter.com/CozomoMedici)          | 藏家(狗哥)            |
+|            | [@SteveAoki](https://twitter.com/SteveAoki)                | DJ / NFT          |
+|            | [@dclblogger](https://twitter.com/dclblogger)              | 虚拟地产              |
+| Layer-2/基础 | [@EliBenSasson](https://twitter.com/EliBenSasson)          | StarkWare         |
+|            | [@sgoldfed](https://twitter.com/sgoldfed)                  | Arbitrum          |
+|            | [@MihailoBjelic](https://twitter.com/MihailoBjelic)        | Polygon           |
+|            | [@gluk64](https://twitter.com/gluk64)                      | zkSync            |
+|            | [@musalbas](https://twitter.com/musalbas)                  | Celestia          |
+|            | [@sreeramkannan](https://twitter.com/sreeramkannan)        | EigenLayer        |
+|            | [@karl\_dot\_tech](https://twitter.com/karl_dot_tech)      | OP Labs           |
+|            | [@SandyPengETH](https://twitter.com/SandyPengETH)          | Scroll            |
+| 合规/政策      | [@HaileyLennonBTC](https://twitter.com/HaileyLennonBTC)    | 加密律师              |
+|            | [@jchervinsky](https://twitter.com/jchervinsky)            | Blockchain Assoc. |
+|            | [@katherineykwu](https://twitter.com/katherineykwu)        | 法务研究              |
+|            | [@HesterPeirce](https://twitter.com/HesterPeirce)          | SEC 委员            |
+|            | [@SenLummis](https://twitter.com/SenLummis)                | 友好议员              |
+|            | [@WarrenDavidson](https://twitter.com/WarrenDavidson)      | 美众议员              |
+|            | [@coincenter](https://twitter.com/coincenter)              | DC 智库             |
+|            | [@BlockchainAssn](https://twitter.com/BlockchainAssn)      | 行业协会              |
+
+
+---
+
+### 华语圈 Twitter KOL/机构
+
+| #  | Twitter                                                  | 标签            |
+| -- | -------------------------------------------------------- | ------------- |
+| 1  | [@WuBlockchain](https://twitter.com/WuBlockchain)        | 中英快讯          |
+| 2  | [@8BTCnews](https://twitter.com/8BTCnews)                | 中文媒体          |
+| 3  | [@DoveyWan](https://twitter.com/DoveyWan)                | Primitive创始   |
+| 4  | [@bigmagicdao](https://twitter.com/bigmagicdao)          | 加密投资          |
+| 5  | [@SpartanBlack\_1](https://twitter.com/SpartanBlack_1)   | Spartan资本     |
+| 6  | [@CryptoHayes](https://twitter.com/CryptoHayes)          | BitMEX创始      |
+| 7  | [@slowmist\_tian](https://twitter.com/slowmist_tian)     | 慢雾安全          |
+| 8  | [@StarXu](https://twitter.com/StarXu)                    | OKX创始         |
+| 9  | [@cz\_binance](https://twitter.com/cz_binance)           | 币安创始          |
+| 10 | [@justinsuntron](https://twitter.com/justinsuntron)      | TRON创始        |
+| 11 | [@SatoshiLite](https://twitter.com/SatoshiLite)          | LTC创始         |
+| 12 | [@zhu1su](https://twitter.com/zhu1su)                    | 3AC创始         |
+| 13 | [@Arthur\_0x](https://twitter.com/Arthur_0x)             | DeFiance资本    |
+| 14 | [@ChandlerGuo](https://twitter.com/ChandlerGuo)          | 矿业大佬          |
+| 15 | [@dahongfei](https://twitter.com/dahongfei)              | NEO创始         |
+| 16 | [@JihanWu](https://twitter.com/JihanWu)                  | 矿机巨头          |
+| 17 | [@LeonHuobi](https://twitter.com/LeonHuobi)              | 火币创始          |
+| 18 | [@JiangZhuoer](https://twitter.com/JiangZhuoer)          | BTC.TOP矿      |
+| 19 | [@boshen1011](https://twitter.com/boshen1011)            | 芬布希资本         |
+| 20 | [@beenhero](https://twitter.com/beenhero)                | imToken创始     |
+| 21 | [@BlockBeatsAsia](https://twitter.com/BlockBeatsAsia)    | BlockBeats    |
+| 22 | [@BiteyeCN](https://twitter.com/BiteyeCN)                | 研报平台          |
+| 23 | [@Foresight\_News](https://twitter.com/Foresight_News)   | Foresight快讯   |
+| 24 | [@TechFlowPost](https://twitter.com/TechFlowPost)        | 深潮TechFlow    |
+| 25 | [@PANewsCN](https://twitter.com/PANewsCN)                | PANews媒体      |
+| 26 | [@ChainCatcher\_](https://twitter.com/ChainCatcher_)     | ChainCatcher  |
+| 27 | [@JinseFinance](https://twitter.com/JinseFinance)        | 金色财经          |
+| 28 | [@BlockTempo](https://twitter.com/BlockTempo)            | 动区媒体          |
+| 29 | [@cryptohunt\_ai](https://twitter.com/cryptohunt_ai)     | 数据情报          |
+| 30 | [@whyyoutouzhele](https://twitter.com/whyyoutouzhele)    | 李老师风投         |
+| 31 | [@matrixport\_en](https://twitter.com/matrixport_en)     | Matrixport研报  |
+| 32 | [@imTokenOfficial](https://twitter.com/imTokenOfficial)  | imToken钱包     |
+| 33 | [@OKX](https://twitter.com/OKX)                          | OKX官方         |
+| 34 | [@HTX\_Global](https://twitter.com/HTX_Global)           | HTX官方         |
+| 35 | [@binance\_sg](https://twitter.com/binance_sg)           | Binance SG    |
+| 36 | [@kucoincom](https://twitter.com/kucoincom)              | KuCoin官方      |
+| 37 | [@Bitgetglobal](https://twitter.com/Bitgetglobal)        | Bitget交易所     |
+| 38 | [@Gate\_io](https://twitter.com/Gate_io)                 | Gate官方        |
+| 39 | [@Bybit\_Official](https://twitter.com/Bybit_Official)   | Bybit交易所      |
+| 40 | [@MEXC\_Official](https://twitter.com/MEXC_Official)     | MEXC交易所       |
+| 41 | [@Conflux\_Network](https://twitter.com/Conflux_Network) | Conflux公链     |
+| 42 | [@HashKeyGroup](https://twitter.com/HashKeyGroup)        | HashKey集团     |
+| 43 | [@HashKeyExchange](https://twitter.com/HashKeyExchange)  | HashKey交易     |
+| 44 | [@MerlinLayer2](https://twitter.com/MerlinLayer2)        | BTC二层         |
+| 45 | [@mattyryze](https://twitter.com/mattyryze)              | RyzeLabs合伙    |
+| 46 | [@LingfengCapital](https://twitter.com/LingfengCapital)  | 零峰资本          |
+| 47 | [@waterdripfund](https://twitter.com/waterdripfund)      | 水滴资本          |
+| 48 | [@mrjasonchoi](https://twitter.com/mrjasonchoi)          | Blockcrunch播客 |
+| 49 | [@ChineseWhales](https://twitter.com/ChineseWhales)      | 中国鲸观察         |
+| 50 | [@AltcoinGordon](https://twitter.com/AltcoinGordon)      | Bitget分析      |
 
 
