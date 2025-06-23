@@ -1,5 +1,5 @@
 # 前言
-- **欢迎来到全网最全面的币圈区块链资源集合，一个专为加密货币爱好者和新手量身定做的信息宝库。目标是方便小白入门，同时提供一个一站式的信息平台，汇集各类常用工具与相关信息，助大家轻松导航币圈的复杂世界。无论您是寻找中心化交易所（如欧易、芝麻开门、币安等）注册链接官网、最新的数据分析工具、巨鲸追踪、NFT市场动向，还是想深入了解DeFi、DAO、跨链技术和安全的加密钱包，这里都有您需要的资源。
+- **欢迎来到全网最全面的币圈区块链资源集合，一个专为加密货币爱好者和新手量身定做的信息宝库。目标是方便小白入门，同时提供一个一站式的信息平台，汇集各类常用工具与相关信息，助大家轻松导航币圈的复杂世界。无论您是寻找中心化交易所（如欧易、芝麻开门、币安等）注册链接官网、最新的数据分析工具、巨鲸追踪、NFT市场动向，还是想深入了解DeFi、DAO、跨链技术和安全的加密钱包，亦或者想要关注社区重要的推特账号、电报群组，这里都有您需要的资源。
 同时，我们非常欢迎社区成员提出补充或修改建议。关注我们，开始您的加密货币投资之旅，探索无限可能。** 
   
 
@@ -17,12 +17,10 @@
     <p align="center">
     <img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/okx_box.png" alt="盲盒" width="310" height="300">
     </p>
-
-2. **[币安（免翻墙）](https://accounts.marketwebb.ac/register?ref=25203322)**（Binance）[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=25203322)
-    全球交易量第一。使用此邀请码：**25203322** 可以永久减免手续费。若注册遇到问题，可参考：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
-
-3. **[芝麻开门](https://www.gate.ac/signup/VlEWUFlX?ref_type=103)（Gate.io）**[备用链接（需要翻墙）](https://www.gate.io/signup/VlEWUFlX?ref_type=103)
+2. **[芝麻开门](https://www.gate.ac/signup/VlEWUFlX?ref_type=103)（Gate.io）**[备用链接（需要翻墙）](https://www.gate.io/signup/VlEWUFlX?ref_type=103)
     山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币，所以很多币圈老人会在芝麻埋伏好，一旦上了欧易币安就开始变现。注册好之后，记得领取**数字货币盲盒**。玩现货推荐用芝麻开门。使用此邀请码：**VlEWUFlX** 可以永久减免手续费。
+3. **[币安（免翻墙）](https://accounts.marketwebb.ac/register?ref=25203322)**（Binance）[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=25203322)
+    全球交易量第一。使用此邀请码：**25203322** 可以永久减免手续费。若注册遇到问题，可参考：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
 
 4. **[Bitget](https://www.bitget.com/zh-CN/referral/register?clacCode=TWJUFSKL&from=%2Fzh-CN%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)**
     Bitget 是一家全球性的加密货币交易平台，成立于 2018 年，总部位于新加坡。它主要提供现货交易、合约交易（期货）、质押和收益等多种加密货币金融服务。Bitget 以其合约交易（尤其是 USDT 本位和币本位合约）和一键跟单（Copy Trading）功能而闻名，吸引了大量交易者，特别是合约交易用户。
