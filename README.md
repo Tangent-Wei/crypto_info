@@ -16,7 +16,16 @@
     <!-- ![okx_box](https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/okx_box.png) -->
     <p align="center">
     <img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/okx_box.png" alt="盲盒" width="310" height="300">
-    </p>
+    </p>  
+    
+    
+    欧易（OKX）推出的 Web3 钱包集成了交易所与 DeFi 功能，特点如下：
+   - 多链支持：涵盖上百条主流公链，自动识别网络。
+   - 钱包即服务：支持邮箱/手机号一键创建钱包，适合新手。
+   - MPC 技术：支持无助记词的钱包创建与恢复，提高安全性与便捷性。
+   - 集成 DApp 探索器：可直接在钱包内访问 DeFi、NFT、游戏等应用。
+   - 与欧易交易所互通：方便用户在交易所与链上间无缝转移资产。
+    这里有一个很详细的教程[欧易web3钱包使用教程](docs/欧易web3钱包使用教程.pdf)
 2. **[芝麻开门](https://www.gate.ac/signup/VlEWUFlX?ref_type=103)（Gate.io）**[备用链接（需要翻墙）](https://www.gate.io/signup/VlEWUFlX?ref_type=103)
     山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币，所以很多币圈老人会在芝麻埋伏好，一旦上了欧易币安就开始变现。注册好之后，记得领取**数字货币盲盒**。玩现货推荐用芝麻开门。使用此邀请码：**VlEWUFlX** 可以永久减免手续费。
 3. **[币安（免翻墙）](https://accounts.marketwebb.ac/register?ref=25203322)**（Binance）[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=25203322)
@@ -33,7 +42,7 @@
     香港和台湾地区用得多
 - 这些平台各自提供不同的服务和特点，从支持的币种、用户界面、交易费用到安全性等方面都有所不同，适合不同需求的用户选择。请注意，投资加密货币存在风险，包括市场波动和平台风险，投资前应充分了解并评估。
   
-  
+
 ## U卡
 - 对于币圈投资者来说，USDT（简称U）是非常熟悉的数字货币之一。U是全球首款稳定币，是一种将加密货币与美元挂钩的虚拟货币。什么是u卡？U卡用起来和普通“银行卡”差不多，主要就是往里面充U、直接在ATM上取现、进行线上消费，也能刷pos机，可以直接花U来安排衣食住行，例如加油，支付停车费，超市消费，买菜卖水果、药店买药，基本都丝滑无压力。
 1. **[dupay](https://www.dupay.one/web-app/register-h5?invitCode=T95ERM&lang=zh-cn)**
