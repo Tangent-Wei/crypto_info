@@ -146,7 +146,6 @@
 4. **[Curve crvUSD](https://curve.fi/)**
    Curve 推出的原生稳定币，结合自动清算机制和 AMM，为 DeFi 提供低波动性流动资产。
 
----
 
 ### RWA 代币化平台
 
