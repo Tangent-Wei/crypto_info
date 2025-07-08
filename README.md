@@ -5,7 +5,7 @@
 
 ## 导航
 
-[中心化大所](#中心化大所)  [数据分析](#数据分析) [巨鲸追踪](#巨鲸追踪) [新闻媒体](#新闻媒体) [NFT工具](#NFT工具) [DAO工具](#DAO工具) [Defi工具](#Defi工具) [跨链](#跨链) [加密钱包](#加密钱包) [顶级投资机构](#顶级投资机构) [重要Twtter账号](#各大板块重要twitter账号) [中文电报群](#中文电报群) [英文电报群](#英文电报群)
+[中心化大所](#中心化大所)  [数据分析](#数据分析) [巨鲸追踪](#巨鲸追踪) [新闻媒体](#新闻媒体) [NFT工具](#NFT工具) [DAO工具](#DAO工具) [Defi工具](#Defi工具) [跨链](#跨链) [Layer-2 与跨链桥接协议](#Layer-2) [开发者工具](开发者工具 & 技术资源) [链上数据](链上数据 & 分析平台) [安全审计](#安全审计) [学习材料](#学习材料) [社区活动](#社区活动) [加密钱包](#加密钱包) [顶级投资机构](#顶级投资机构) [重要Twtter账号](#各大板块重要twitter账号) [中文电报群](#中文电报群) [英文电报群](#英文电报群)
 
 
 
@@ -251,7 +251,109 @@ DAO（去中心化自治组织）是基于区块链技术的一种组织形式�
 8. **[Thorchain](https://thorchain.org/)**
   一个去中心化的流动性协议，支持跨链交易，允许用户在不同加密货币间直接交换，无需中心化交易所。
 
+## Layer-2
 
+1. **[Arbitrum](https://arbitrum.io)**
+   活跃的以太坊 L2 网络，支持多种 DApp 生态。
+2. **[Optimism](https://www.optimism.io)**
+   高性能 Rollup 网络，具有极低的交易成本。
+3. **[zkSync](https://zksync.io)**
+   基于 ZK-Rollup 的 Layer-2 解决方案，兼顾效率与安全。
+4. **[LayerZero](https://layerzero.network)**
+   通用消息传输协议，支持链间通信和资产桥接。
+5. **[Wormhole](https://wormhole.com)**
+   多链桥接协议，支持以太坊、Solana、BSC 等生态系统。
+
+
+## 开发者工具 & 技术资源
+
+1. **[Hardhat](https://hardhat.org)**
+   以太坊开发环境，支持合约编译、测试、部署和本地链模拟。
+2. **[Foundry](https://book.getfoundry.sh)**
+   快速、模块化的智能合约开发框架，适合高性能需求。
+3. **[Alchemy](https://www.alchemy.com)**
+   Web3 应用开发平台，提供多链 RPC 节点和监控工具。
+4. **[Infura](https://infura.io)**
+   提供以太坊、IPFS、L2 等基础设施的 API 网关服务。
+5. **[Ethers.js](https://docs.ethers.org)**
+   精简现代的 JavaScript Web3 库，适用于前端集成合约交互。
+
+---
+
+## 链上数据 & 分析平台
+
+1. **[Dune Analytics](https://dune.com)**
+   使用 SQL 查询链上数据，支持可视化仪表盘构建与分享。
+2. **[Nansen](https://www.nansen.ai)**
+   提供地址标签、巨鲸追踪、Token 智能分析等高级数据服务。
+3. **[Token Terminal](https://tokenterminal.com)**
+   类似“财报”的项目数据平台，聚焦 Web3 商业模型分析。
+4. **[The Graph](https://thegraph.com)**
+   去中心化数据索引协议，适合链上应用构建数据查询接口。
+5. **[Covalent](https://www.covalenthq.com)**
+   多链数据 API 提供者，适合开发者快速集成链上查询。
+
+
+
+
+
+
+## 安全审计
+
+1. **[CertiK](https://www.certik.com)**
+   顶级智能合约安全审计机构，提供审计、KYC、安全评分等服务。
+2. **[SlowMist](https://slowmist.com)**
+   国内领先的区块链安全公司，发布安全报告与黑客分析。
+3. **[Beosin](https://www.beosin.com)**
+   提供合约审计、链上风控监测及安全培训。
+4. **[Immunefi](https://immunefi.com)**
+   Web3 漏洞赏金平台，为白帽与项目方提供协作平台。
+5. **[Revoke.cash](https://revoke.cash)**
+   钱包授权检查与取消工具，常用于防止钓鱼攻击。
+
+
+## 学习材料
+
+1. **[CryptoZombies](https://cryptozombies.io)**
+   通过游戏学习 Solidity 合约开发的互动教学平台。
+2. **[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)**
+   Andreas Antonopoulos 撰写的经典比特币技术读物，开源免费。
+3. **[Web3 University](https://www.web3.university)**
+   聚合 Web3 编程资源与教程，适合新手入门。
+4. **[Chainshot](https://www.chainshot.com)**
+   交互式 Solidity 编程训练营，覆盖测试和安全话题。
+5. **[Ethernaut](https://ethernaut.openzeppelin.com)**
+   智能合约安全挑战平台，由 OpenZeppelin 提供，适合安全提升。
+
+
+## 社区活动
+
+1. **[ETHGlobal](https://ethglobal.com)**
+   以太坊社区主办的全球黑客松赛事，汇聚众多开发者。
+2. **[Devcon](https://devcon.org)**
+   以太坊基金会主办的全球开发者大会，每年举办。
+3. **[Web3CN Club (TG)](https://t.me/web3cnclub)**
+   中文 Web3 技术与投资社群，活跃且资源丰富。
+4. **[Discord Web3 Hub](https://discord.com)**
+   加入各大项目的官方 Discord，获取一手动态和空投活动。
+5. **[Crypto Twitter 关注清单](https://twitter.com)**
+   建议建立“技术 / 投资 / 项目方 / 空投”四类 Twitter 跟踪表单，动态更新。
+
+
+
+## 顶级投资机构
+
+1. **[币安实验室](https://labs.binance.com/)**  
+  币安实验室是币安交易所的投资和孵化部门，专注于支持创新的区块链和加密货币项目，推动行业发展。
+2. **[Coinbase Ventures](https://www.coinbase.com/ventures#our-investments)**  
+  Coinbase Ventures 是知名加密货币交易所 Coinbase 的风险投资部门，投资于加密货币和区块链技术的早期阶段项目。
+3. **[三箭资本 (Three Arrows Capital)](https://www.threearrowscap.com/select-investments/)**  
+  一个专注于加密货币和区块链技术投资的对冲基金，对多个重要项目有影响力投资。
+4. **[A16z](https://a16z.com/portfolio/#crypto)**  
+  安德森·霍洛维茨（Andreessen Horowitz）是硅谷的顶级风险投资公司之一，其加密基金专注于投资区块链技术和加密货币项目。
+5. **[Alameda Research](https://www.alameda-research.com/ventures)**  
+  由Sam Bankman-Fried创立，是一个量化交易公司和加密货币投资者，通过其风险投资部门投资于加密生态系统。
+6. **[Multicoin Capital](https://multicoin.capital/zh/portfolio/)**  专注于加密货币和区块链技术的全球性资产管理公司，投资于加密领域的创新项目和公司。
 
 
 ## 加密钱包
