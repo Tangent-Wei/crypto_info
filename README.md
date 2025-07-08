@@ -5,7 +5,7 @@
 
 ## 导航
 
-[中心化大所](#中心化大所)  [数据分析](#数据分析) [巨鲸追踪](#巨鲸追踪) [新闻媒体](#新闻媒体) [NFT工具](#NFT工具) [DAO工具](#DAO工具) [Defi工具](#Defi工具) [跨链](#跨链) [Layer-2 与跨链桥接协议](#Layer-2 与跨链桥接协议) [开发者工具与技术资源](#开发者工具与技术资源) [安全审计](#安全审计) [学习材料](#学习材料) [社区活动](#社区活动) [加密钱包](#加密钱包) [顶级投资机构](#顶级投资机构) [重要Twtter账号](#各大板块重要twitter账号) [中文电报群](#中文电报群) [英文电报群](#英文电报群)
+[中心化大所](#中心化大所)  [数据分析](#数据分析) [巨鲸追踪](#巨鲸追踪) [新闻媒体](#新闻媒体) [NFT工具](#NFT工具) [DAO工具](#DAO工具) [Defi工具](#Defi工具) [跨链](#跨链) [开发者工具与技术资源](#开发者工具与技术资源) [安全审计](#安全审计) [学习材料](#学习材料) [社区活动](#社区活动) [加密钱包](#加密钱包) [顶级投资机构](#顶级投资机构) [重要Twtter账号](#各大板块重要twitter账号) [中文电报群](#中文电报群) [英文电报群](#英文电报群)
 
 
 
@@ -47,7 +47,6 @@
 支持 ChatGPT Plus充值、Stripe 商户、google play 商店、youtube premium 、paypal 商户、美区苹果商店、和支持非 3DS 卡的电商网站。
 支持国内苹果官网直接绑卡购买 iPhone 和 Mac ，可能会打电话问询，直接说即可。
 支持 USDT 充值，然后使用 VISA/master 卡直接消费，免去 OTC 兑换风险.
-
 
 
 
@@ -259,7 +258,7 @@ DAO（去中心化自治组织）是基于区块链技术的一种组织形式�
 8. **[Thorchain](https://thorchain.org/)**
   一个去中心化的流动性协议，支持跨链交易，允许用户在不同加密货币间直接交换，无需中心化交易所。
 
-### Layer-2 与跨链桥接协议
+### Layer-2与跨链桥接协议
  - Layer-2（简称 L2）是构建在主链（如以太坊）之上的扩展解决方案，旨在提升交易速度、降低手续费，常见形式有 Rollup（如 Arbitrum、zkSync）、侧链等。它们继承主链的安全性，同时提高网络吞吐量。跨链桥接协议（Cross-chain Bridge）则是连接不同区块链之间的桥梁，允许资产、消息、数据在多个链之间自由流通，解决多链生态间的孤岛问题。Layer-2 提高单条链的性能，跨链协议则打通多条链之间的连接，两者都是推动区块链互操作性和可扩展性的关键技术。
 1. **[Arbitrum](https://arbitrum.io)**
    活跃的以太坊 L2 网络，支持多种 DApp 生态。
@@ -289,7 +288,7 @@ DAO（去中心化自治组织）是基于区块链技术的一种组织形式�
 
 
 ## 安全审计
-
+ - 区块链项目由于智能合约一经部署便不可更改，因此安全性至关重要。安全审计（Smart Contract Audit）是第三方团队对合约代码进行全面检查，找出可能存在的漏洞、逻辑缺陷和攻击面，避免资金被盗、项目被黑。
 1. **[CertiK](https://www.certik.com)**
    顶级智能合约安全审计机构，提供审计、KYC、安全评分等服务。
 2. **[SlowMist](https://slowmist.com)**
@@ -317,7 +316,9 @@ DAO（去中心化自治组织）是基于区块链技术的一种组织形式�
 
 
 ## 社区活动
+ - 参与这些社区和活动，可以获取最新项目动态、空投机会和技术进展，与顶级开发者、KOL 和投资机构交流
 
+提高你在 Web3 世界的“社交资本”与发现机会的能力
 1. **[ETHGlobal](https://ethglobal.com)**
    以太坊社区主办的全球黑客松赛事，汇聚众多开发者。
 2. **[Devcon](https://devcon.org)**
@@ -331,19 +332,6 @@ DAO（去中心化自治组织）是基于区块链技术的一种组织形式�
 
 
 
-## 顶级投资机构
-
-1. **[币安实验室](https://labs.binance.com/)**  
-  币安实验室是币安交易所的投资和孵化部门，专注于支持创新的区块链和加密货币项目，推动行业发展。
-2. **[Coinbase Ventures](https://www.coinbase.com/ventures#our-investments)**  
-  Coinbase Ventures 是知名加密货币交易所 Coinbase 的风险投资部门，投资于加密货币和区块链技术的早期阶段项目。
-3. **[三箭资本 (Three Arrows Capital)](https://www.threearrowscap.com/select-investments/)**  
-  一个专注于加密货币和区块链技术投资的对冲基金，对多个重要项目有影响力投资。
-4. **[A16z](https://a16z.com/portfolio/#crypto)**  
-  安德森·霍洛维茨（Andreessen Horowitz）是硅谷的顶级风险投资公司之一，其加密基金专注于投资区块链技术和加密货币项目。
-5. **[Alameda Research](https://www.alameda-research.com/ventures)**  
-  由Sam Bankman-Fried创立，是一个量化交易公司和加密货币投资者，通过其风险投资部门投资于加密生态系统。
-6. **[Multicoin Capital](https://multicoin.capital/zh/portfolio/)**  专注于加密货币和区块链技术的全球性资产管理公司，投资于加密领域的创新项目和公司。
 
 
 ## 加密钱包
@@ -381,8 +369,6 @@ DAO（去中心化自治组织）是基于区块链技术的一种组织形式�
 
 
 
-
-
 ## 顶级投资机构
 
 1. **[币安实验室](https://labs.binance.com/)**  
@@ -396,6 +382,22 @@ DAO（去中心化自治组织）是基于区块链技术的一种组织形式�
 5. **[Alameda Research](https://www.alameda-research.com/ventures)**  
   由Sam Bankman-Fried创立，是一个量化交易公司和加密货币投资者，通过其风险投资部门投资于加密生态系统。
 6. **[Multicoin Capital](https://multicoin.capital/zh/portfolio/)**  专注于加密货币和区块链技术的全球性资产管理公司，投资于加密领域的创新项目和公司。
+7. **[Paradigm](https://www.paradigm.xyz/portfolio)**
+   知名加密原生投资机构，专注于支持早期 Web3 协议、基础设施和 DeFi 项目，曾投资 Uniswap、dYdX、EigenLayer 等。
+8. **[Pantera Capital](https://www.panteracapital.com/portfolio/)**
+   成立于 2013 年的老牌加密基金，覆盖比特币、DeFi、NFT、区块链基础设施等多个赛道。
+9. **[Dragonfly Capital](https://www.dragonfly.xyz/)**
+   中美双总部的加密投资公司，连接东西方加密生态，投资项目包括 StarkWare、1inch、Matter Labs 等。
+10. **[Delphi Digital](https://www.delphidigital.io/research)**
+    以研究驱动的投资机构，深度参与协议设计与治理，旗下设有 Delphi Labs 孵化器。
+11. **[Electric Capital](https://www.electriccapital.com/portfolio)**
+    聚焦开发者生态和开源协议的风投机构，发布年度开发者报告影响广泛。
+12. **[Hashed](https://www.hashed.com/)**
+    韩国最大的加密风投机构之一，专注于 Web3 游戏、元宇宙与去中心化金融领域。
+13. **[Jump Crypto](https://jumpcrypto.com/)**
+    Jump Trading 的加密部门，兼具投资与做市功能，深度参与 Solana、Wormhole 等基础设施建设。
+14. **[Spartan Group](https://www.spartangroup.io/portfolio)**
+    亚洲知名加密投行，专注于 DeFi、Web3 和 GameFi 项目，曾投资 StepN、dYdX 等项目。
 
 
 
