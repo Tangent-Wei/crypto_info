@@ -3,10 +3,12 @@
 同时，我们非常欢迎社区成员提出补充或修改建议。关注我们，开始您的加密货币投资之旅，探索无限可能。** [电报群](https://t.me/+6X7HFG6RkJk0NTk1) 
 
 微信群：加v: foloheart，备注github，我来拉进群
-<!-- 或扫码进群
+
+
+或扫码加我
 <p align="center">
-<img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/wechat_group.jpg" alt="微信群" width="220" height="300">
-</p>   -->
+<img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/ID_QRcode.jpg" alt="微信群" width="220" height="300">
+</p>  
 
 
 ## 导航
