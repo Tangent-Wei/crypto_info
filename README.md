@@ -34,7 +34,7 @@ qq群：982591086
 1. **[欧易（免翻墙）](https://www.chouyi.pro/join/github888)（OKX，前Okex）**[备用链接（需翻墙）](https://www.okx.com/join/github888)
     国内交易量第一。最适合大陆新用户注册的头部交易所。使用此邀请码：**github888** 可以**永久减免20%手续费**。**6个月未登录过的账户**，通过链接登录也可以获取返佣。安卓手机可以直接下载App，苹果手机需要海外ID：[欧易交易所注册流程](https://dear-vision-808.notion.site/b22c9793f8c74283993e8a0dc08ca320)。然后根据自己的需求可以在c2c使用微信/支付宝/银行卡等入金，或者让好友通过UID给你转币。国内用户首选欧易。
     <p align="center">
-    <img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/okx_discount.jpg" alt="返佣" width="310" height="300">
+    <img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/okx_discount.jpg" alt="返佣" width="310" >
     </p>  
     <!-- 欧易（OKX）推出的 Web3 钱包集成了交易所与 DeFi 功能，特点如下：
    - 多链支持：涵盖上百条主流公链，自动识别网络。
