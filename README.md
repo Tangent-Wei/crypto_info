@@ -74,7 +74,7 @@ qq群：982591086
 支持 ChatGPT Plus充值、Stripe 商户、google play 商店、youtube premium 、paypal 商户、美区苹果商店、和支持非 3DS 卡的电商网站。
 支持国内苹果官网直接绑卡购买 iPhone 和 Mac ，可能会打电话问询，直接说即可。
 支持 USDT 充值，然后使用 VISA/master 卡直接消费，免去 OTC 兑换风险.
-ChatGPT Plus/API 充值教程可以看一下这一个**[知乎回答](https://www.zhihu.com/question/614491163/answer/1936893246023369264)**
+ChatGPT Plus/API 充值教程可以看一下这一个 **[知乎回答](https://www.zhihu.com/question/614491163/answer/1936893246023369264)**
 2. **[BitUnion](https://app.bitunion.io/?channelCode=RekQ53Mvh0)**
    Bitunion 是一个基于区块链的跨境支付与资产管理平台，支持 全球速汇 功能。用户可以通过绑定钱包和银行卡，实现数字资产快速兑换为法币并直接到账个人银行卡。平台采用持牌机构合规打款，流程安全合规，手续费低，到账速度快，非常适合有大额出金、跨境结算 需求的用户。手续费是2.5%+5USDT，其中1%由conflux基金会补助，以CFX代币的形式定期返会钱包。官方称未来会取消单笔5USDT的固定费用，综合损耗只有1.5%。关键优势在于合规。详细教程可见：**[BitUnion USDT转CNY图文教程](https://zhuanlan.zhihu.com/p/1944493815034549905)**
 ## 币种资讯
