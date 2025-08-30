@@ -49,14 +49,12 @@ qq群：982591086
     山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币，所以很多币圈老人会在芝麻埋伏好，一旦上了欧易币安就开始变现。注册好之后，记得领取**数字货币盲盒**。玩现货推荐用芝麻开门。使用此邀请码：**VIEWUFIX** 可以**永久减免部分手续费**。
 3. **[币安（免翻墙）](https://accounts.marketwebb.ac/register?ref=25203322)**（Binance）[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=25203322)
     全球交易量第一。使用此邀请码：**25203322** 可以永久减免部分手续费。若注册遇到问题，可参考：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
-
-4. **[Bitget](https://www.bitget.com/zh-CN/referral/register?clacCode=ASM5K7JM&from=%2Fzh-CN%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)**
-    Bitget 是一家全球性的加密货币交易平台，成立于 2018 年，总部位于新加坡。它主要提供现货交易、合约交易（期货）、质押和收益等多种加密货币金融服务。Bitget 以其合约交易（尤其是 USDT 本位和币本位合约）和一键跟单（Copy Trading）功能而闻名，吸引了大量交易者，特别是合约交易用户。
+4. **[Bitget](https://partner.dhxrcw.cn/bg/1E5FYW)**
+    Bitget 是一家全球性的加密货币交易平台，成立于 2018 年，总部位于新加坡。它主要提供现货交易、合约交易（期货）、质押和收益等多种加密货币金融服务。Bitget 以其合约交易（尤其是 USDT 本位和币本位合约）和一键跟单（Copy Trading）功能而闻名，吸引了大量交易者，特别是合约交易用户。使用此邀请码：**1E5FYW** 可以永久减免部分手续费。
 5. **[火币](https://www.htx.com/invite/zh-cn/1f?invite_code=t5bw8223)**
     曾是国内最大交易所，清退大陆用户后由孙宇晨接手，仍有很大关注度。
 6. **[抹茶](https://www.mexc.com/)**
     山寨币上新最快，但是退出大陆市场后，国内用户基本流失。
-
 7. **[Bybit](https://www.bybit.com/)**
     香港和台湾地区用得多
 - 这些平台各自提供不同的服务和特点，从支持的币种、用户界面、交易费用到安全性等方面都有所不同，适合不同需求的用户选择。请注意，投资加密货币存在风险，包括市场波动和平台风险，投资前应充分了解并评估。
