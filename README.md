@@ -3,11 +3,17 @@
 同时，我们非常欢迎社区成员提出补充或修改建议。关注我们，开始您的加密货币投资之旅，探索无限可能。** 
 
 <!-- [电报群](https://t.me/+6X7HFG6RkJk0NTk1) -->
+**微信群：加微信“abc734703783”**
+<p align="center">
+<img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/ID_QRcode.jpg" alt="微信" width="220" height="300">
+</p>  
 
-qq群：982591086
+**qq群：982591086**
 <p align="center">
 <img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/qq_group.jpg" alt="qq群" width="220" height="300">
 </p>  
+
+
 
 
 ## 导航
