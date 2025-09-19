@@ -5,7 +5,7 @@
 <!-- [电报群](https://t.me/+6X7HFG6RkJk0NTk1) -->
 **微信群：直接扫下边二维码进群，或者加微信“abc734703783”，备注github，**
 <p align="center">
-<img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/wechat_group.jpg" alt="微信" width="220" height="300">
+<img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/wechat_group1.jpg" alt="微信" width="220" height="300">
 </p>  
 
 **qq群：982591086**
