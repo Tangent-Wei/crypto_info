@@ -51,8 +51,8 @@
    - 集成 DApp 探索器：可直接在钱包内访问 DeFi、NFT、游戏等应用。
    - 与欧易交易所互通：方便用户在交易所与链上间无缝转移资产。
     这里有一个很详细的教程：[欧易web3钱包使用教程](docs/欧易web3钱包使用教程.pdf) -->
-2. **[芝麻开门](https://www.gate.ac/signup/VIEWUFIX?ref_type=103)（Gate.io）**[备用链接（需要翻墙）](https://www.gate.io/signup/VIEWUFIX?ref_type=103)
-    山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币，所以很多币圈老人会在芝麻埋伏好，一旦上了欧易币安就开始变现。注册好之后，记得领取**数字货币盲盒**。玩现货推荐用芝麻开门。使用此邀请码：**VIEWUFIX** 可以**永久减免部分手续费**。
+2. **[芝麻开门](https://www.gatesite.space/share/vlewuflx)（Gate.io）**[备用链接（需要翻墙）](https://www.gate.io/signup/vlewuflx?ref_type=103)
+    山寨币数量最多，适合埋伏新币。大部分币在上币安、欧易这两个大所之前都会上芝麻，诞生很多百倍千倍币，所以很多币圈老人会在芝麻埋伏好，一旦上了欧易币安就开始变现。注册好之后，记得领取**数字货币盲盒**。玩现货推荐用芝麻开门。使用此邀请码：**vlewuflx** 可以**永久减免部分手续费**。
 3. **[币安（免翻墙）](https://accounts.marketwebb.ac/register?ref=25203322)**（Binance）[备用链接（需要翻墙）](https://accounts.binance.com/zh-CN/register?ref=25203322)
     全球交易量第一。使用此邀请码：**25203322** 可以永久减免部分手续费。若注册遇到问题，可参考：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
 4. **[Bitget](https://partner.dhxrcw.cn/bg/1E5FYW)**
