@@ -5,7 +5,7 @@
 <!-- [电报群](https://t.me/+6X7HFG6RkJk0NTk1) -->
 **微信群：直接扫下边二维码进群**
 <p align="center">
-<img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/wechat_group_oct18.jpg" alt="微信" width="220" height="300">
+<img src="https://github.com/Tangent-Wei/crypto_info/blob/main/imgs/wechat_group_oct29.jpg" alt="微信" width="220" height="300">
 </p>  
 
 **qq群：982591086**
