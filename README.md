@@ -18,6 +18,9 @@
 
 ## 导航
 
+**🚀 新手必读**
+[新手入门路线：从注册交易所到链上操作](./docs/新手入门路线.md)
+
 **📈 核心工具与数据**
 [中心化大所](#中心化大所) ｜ [数据分析](#数据大全) ｜ [币种资讯](#币种资讯) ｜ [巨鲸追踪](#巨鲸追踪) |  [空投任务与投研工具](#空投任务与投研工具)   |   [稳定币与RWA资源](#稳定币与RWA资源)
 
@@ -28,7 +31,7 @@
 [NFT工具](#nft工具) ｜ [GameFi和元宇宙资源](#gamefi和元宇宙资源) ｜ [DAO工具](#dao工具) ｜ [Defi工具](#defi工具)
 
 **🔗 网络与协议**
-[跨链](#跨链) ｜ [开发者工具与技术资源](#开发者工具与技术资源) ｜ [安全审计](#安全审计)
+[主流公链生态](#主流公链生态) ｜ [区块浏览器](#区块浏览器) ｜ [跨链](#跨链) ｜ [开发者工具与技术资源](#开发者工具与技术资源) ｜ [安全审计](#安全审计)
 
 **📚 成长与保障**
 [学习材料](#学习材料) ｜ [社区活动](#社区活动) ｜ [加密钱包](#加密钱包) ｜ [顶级投资机构](#顶级投资机构)
@@ -57,6 +60,7 @@
     全球交易量第一。使用此邀请码：**25203322** 可以永久减免部分手续费。若注册遇到问题，可参考：[币安交易所新号注册及身份证KYC过审](https://dear-vision-808.notion.site/024d9025f9824f7789d036de2b81b723)
 4. **[Bitget](https://partner.dhxrcw.cn/bg/1E5FYW)** 
     Bitget 是一家全球性的加密货币交易平台，成立于 2018 年，总部位于新加坡。它主要提供现货交易、合约交易（期货）、质押和收益等多种加密货币金融服务。Bitget 以其合约交易（尤其是 USDT 本位和币本位合约）和一键跟单（Copy Trading）功能而闻名，吸引了大量交易者，特别是合约交易用户。使用此邀请码：**1E5FYW** 可以永久减免部分手续费。
+    <!-- Bitget Wallet[] 是全球领先的 Web3 多链钱包之一，原名 BitKeep，后被 Bitget 收购并升级为 Bitget Wallet。支持 BTC、ETH、Solana、Base、Arbitrum、BNB Chain 等上百条公链，可用于资产存储、链上交易、空投交互、NFT 管理，DApp浏览、港美股交易和虚拟银行卡。 -->
 5. **[火币](https://www.htx.com/invite/zh-cn/1f?invite_code=t5bw8223)**
     曾是国内最大交易所，清退大陆用户后由孙宇晨接手，仍有很大关注度。
 6. **[抹茶](https://www.mexc.com/)**
@@ -74,46 +78,48 @@
 1. **[sms-activate](https://sms-activate.io/?ref=8252577)** SMS‑Activate 是一个专门出售或租赁虚拟手机号的平台，可以接收一次性短信验证码，常见用途包括注册社交账号、验证在线服务等它支持超过 180 个国家的虚拟号码（包括中国）。价格低，支持支付宝充值。
 
 ## U卡/汇款出金
-- 对于币圈投资者来说，USDT（简称U）是非常熟悉的数字货币之一。U是全球首款稳定币，是一种将加密货币与美元挂钩的虚拟货币。什么是u卡？U卡用起来和普通“银行卡”差不多，主要就是往里面充U、直接在ATM上取现、进行线上消费，也能刷pos机，可以直接花U来安排衣食住行，例如加油，支付停车费，超市消费，买菜卖水果、药店买药，基本都丝滑无压力。
-1. **[dupay](https://www.dupay.one/web-app/register-h5?invitCode=T95ERM&lang=zh-cn)**
-   Dupay Master Visa 卡支持绑定支付宝、微信支付、美团外卖、拼多多、Paypal(国区、美区、港区)、天猫国际版等等。
-支持 ChatGPT Plus充值、Stripe 商户、google play 商店、youtube premium 、paypal 商户、美区苹果商店、和支持非 3DS 卡的电商网站。
-支持国内苹果官网直接绑卡购买 iPhone 和 Mac ，可能会打电话问询，直接说即可。
-支持 USDT 充值，然后使用 VISA/master 卡直接消费，免去 OTC 兑换风险.
-ChatGPT Plus/API 充值教程可以看一下这一个 **[知乎回答](https://www.zhihu.com/question/614491163/answer/1936893246023369264)**
-**官方发公告：受合规因素2025年9月开始部分卡段暂停使用。可用coinepay代替**
-2. **[coinepay](https://bpay.net/?code=QECZSS)**  跟dupay类似。Coinepay持有美國MSB金融牌照。
+
+- USDT（俗称“U”）是一种与美元价值挂钩的稳定币。U 卡的使用方式与普通银行卡相似：充值 USDT 后，可用于线上支付、线下刷卡等日常消费；部分实体卡还支持 ATM 取现。具体功能、费率和适用地区以各平台最新规则为准。
+
+1. **[Gate Card（Gate.io 虚拟卡）](https://app.bxjddjt.com/card/redirect?key=invite&invite_code=VlEWUFlX)**
+   Gate Card 背靠大型加密货币交易平台，可使用数字资产进行线上消费，虚拟卡获批后即可使用，适合订阅各类 AI 工具和海外数字服务。申请时需完成 KYC；支持的币种、卡组织、费率及适用地区会因卡种和用户所在地而异，具体规则请查看 [Gate Card 官方页面](https://www.gate.com/card)。
+2. **[Coinepay](https://bpay.net/?code=QECZSS)**
+   提供虚拟卡服务，官方称其持有美国 MSB 注册。
 3. **[BitUnion](https://app.bitunion.io/?channelCode=RekQ53Mvh0)**
-   Bitunion 是一个基于区块链的跨境支付与资产管理平台，支持 全球速汇 功能。用户可以通过绑定钱包和银行卡，实现数字资产快速兑换为法币并直接到账个人银行卡。平台采用持牌机构合规打款，流程安全合规，手续费低，到账速度快，非常适合有大额出金、跨境结算需求的用户。手续费是2.5%+5USDT，其中1%由conflux基金会补助，以CFX代币的形式返会钱包。官方称未来会取消单笔5USDT的固定费用，综合损耗只有1.5%。关键优势在于合规。详细教程可见：**[BitUnion USDT转CNY图文教程](https://zhuanlan.zhihu.com/p/1944493815034549905)**
+   BitUnion 是一个跨境支付与资产管理平台，支持“全球速汇”功能，可将数字资产兑换为法币并汇入个人银行卡。当前手续费为 2.5% + 5 USDT，其中 1% 由 Conflux 基金会以 CFX 代币形式补助；超过1000 USDT，免除5USDT的固定费用。详细步骤请参考：[BitUnion USDT 转 CNY 图文教程](https://zhuanlan.zhihu.com/p/1944493815034549905)。
+
 ## 币种资讯
 
 - 本板块收录了主流币种数据平台，提供实时行情、币种资料、社区热度、项目评分、上架交易所情况、链上指标等信息，是投研、筛选潜力币、监控市场情绪的重要工具。
 
-1. **[非小号](https://www.feixiaohao.co/)**
+1. **[非小号](https://www.feixiaohao.com/)**
    国内使用最广泛的加密行情平台之一，支持币种信息、交易所资料、概念板块、K线图、相关新闻等。适合中文用户快速查找币种资料和归类行情。
 2. **[CoinMarketCap (CMC)](https://coinmarketcap.com/zh/)**
-   全球使用最广的币种数据网站，提供实时价格、市值、成交量、流通量、历史走势、上架交易所等全面信息。也是许多交易所上币前的官方展示入口。
+   全球主流加密资产数据平台，提供价格、市值、成交量、流通量、历史走势、交易市场、代币解锁和分类数据，也可查看交易所排名、衍生品及市场情绪指标。
 3. **[CoinGecko](https://www.coingecko.com/)**
-   与CMC并列的全球主流币种数据库，评分机制更注重社区活跃度、社交媒体热度、开发进展等维度。支持“艾希欧评分”（ICO评分）、DeFi 项目专页等。
+   与 CMC 并列的全球主流币种数据库，提供价格、市值、交易量、交易所、社区数据和开发活动等信息。Categories 功能适合查看 AI、RWA、DeFi、Meme、Layer 2 等不同赛道的整体表现。
 4. **[TokenInsight](https://tokeninsight.com/zh)**
    专注加密评级与项目分析的平台，提供项目基本面评分、风险等级、发展进度与资金支持情况。适合投研人员筛选早期项目与避坑。
-5. **[Messari](https://messari.io/)**
-   专业的加密研究平台，提供币种概览、分析文章、Tokenomics 拆解、生态地图等信息，面向中高阶投资者。其 Dashboard 支持按公链、赛道等筛选。
+5. **[Messari（已并入 Blockworks）](https://messari.io/)**
+   提供机构级加密资产研究、融资数据、风险评估、项目监控和代币解锁信息，适合中高阶投资者。Messari 已并入 Blockworks，原网站正在逐步迁移，后续入口以官网通知为准。
 6. **[CryptoRank](https://cryptorank.io/)**
    整合币种走势、IDO/IEO历史、融资轮次与流通解锁时间表，适合精细化跟踪投资周期与潜在抛压。还有稀释市值、FDV排行等高级指标。
-7. **[Coin98 Analytics](https://coin98.net/analytics)**
-   提供 DeFi、GameFi、Layer2 等细分领域的项目列表与对比视图，适合生态级投研，搭配 Coin98 Wallet 使用更方便。
-8. **[LunarCrush](https://lunarcrush.com/)**
+7. **[LunarCrush](https://lunarcrush.com/)**
    强调“社交媒体热度分析”的数据平台，聚合 Twitter、Reddit、YouTube 等数据生成情绪评分与关注度排行。适合寻找社区活跃项目与热炒题材。
-9. **[Santiment](https://app.santiment.net/)**
+8. **[Santiment](https://app.santiment.net/)**
    专注于链上数据与社交指标分析的专业平台，提供交易量、地址变化、大户动向、开发活动等指标图表，适合中高级研究使用。
+9. **[RootData](https://www.rootdata.com/)**
+   Web3 项目资料和融资数据平台，可以查询项目团队、融资轮次、投资机构、估值、所属赛道及运营状态，适合研究早期项目和机构投资动向。
+10. **[CoinMarketCal](https://coinmarketcal.com/)**
+   加密货币事件日历，收录主网上线、代币解锁、交易所上线、治理投票和产品发布等重要时间节点，适合提前关注可能影响行情的项目事件。
 
 
 📌 **建议**：
 
 * 初学者建议结合使用 CMC + CoinGecko 快速了解币种全貌；
-* 投研人员建议搭配 Messari + Santiment + CryptoRank 进行基本面深度分析；
-* 热点捕捉者可以重点关注 LunarCrush 的社交热度排名。
+* 投研人员建议搭配 Messari + Santiment + CryptoRank + RootData 进行基本面和融资背景分析；
+* 热点捕捉者可以重点关注 LunarCrush 的社交热度排名；
+* 项目重要时间节点可以通过 CoinMarketCal 提前查看。
 
 
 
@@ -173,36 +179,46 @@ ChatGPT Plus/API 充值教程可以看一下这一个 **[知乎回答](https://w
 
 - 稳定币是加密货币世界中连接法币的重要桥梁，RWA（Real World Assets）则是现实世界资产（如债券、房产、应收账款）在区块链上的映射。随着合规趋势加速，越来越多项目将传统金融资产代币化，并接入 DeFi 协议，推动「链上债市」和「链上收益」的建立。
 
-### 稳定币代表平台
+### 常用稳定币
 
-1. **[MakerDAO / DAI](https://makerdao.com/)**
-   去中心化稳定币 DAI 的发行平台，以超额抵押机制维持价格锚定，是最早期的稳定币之一，也是 RWA 落地最早的项目之一（DAI 的部分抵押资产已包括现实资产）。
+1. **[USDT](https://tether.to/)**
+   使用范围最广的美元稳定币之一，常用于交易所入金、币币交易和链上转账。USDT 支持多条网络，提币时一定要确认发送和接收网络完全一致。
+2. **[USDC](https://www.circle.com/usdc)**
+   Circle 发行的美元稳定币，在交易所、DeFi 和链上支付中使用较多。不同平台支持的网络不一样，转账前同样需要核对。
+3. **[FDUSD](https://firstdigitallabs.com/stablecoin/)**
+   First Digital 发行的美元稳定币，在部分交易所拥有较多交易对和活动，使用前注意查看支持的网络与实时流动性。
+4. **[Sky（原 MakerDAO）/ USDS / DAI](https://sky.money/)**
+   MakerDAO 于 2024 年更名为 Sky，并推出 USDS；原有 DAI 继续保留。这两个稳定币主要用于链上交易、借贷和 DeFi 协议。
 
-2. **[Liquity / LUSD](https://www.liquity.org/)**
+稳定币并不代表绝对安全，仍然存在发行方、储备资产、平台和短期脱锚等风险。大额资金不要只看收益率，先弄清楚币是谁发行的、靠什么维持价格。
+
+### 其他稳定币协议
+
+1. **[Liquity / LUSD](https://www.liquity.org/)**
    一种无需治理的去中心化稳定币系统，支持 ETH 抵押发行 LUSD，无利息、仅一次性借款费用，流通性良好。
 
-3. **[Frax Finance](https://frax.finance/)**
+2. **[Frax Finance](https://frax.finance/)**
    由部分抵押+算法稳定支持的 Frax 稳定币生态，目前正向全抵押过渡，推出 FraxLend、FraxBond、sFRAX 等衍生产品。
 
-4. **[Curve crvUSD](https://curve.fi/)**
+3. **[Curve crvUSD](https://curve.fi/)**
    Curve 推出的原生稳定币，结合自动清算机制和 AMM，为 DeFi 提供低波动性流动资产。
 
 
 ### RWA 代币化平台
 
-5. **[Ondo Finance](https://ondo.finance/)**
+1. **[Ondo Finance](https://ondo.finance/)**
    提供美国国债、短期债券等资产的代币化解决方案，如 OUSG、USDY 等稳定收益产品，适合稳健派 DeFi 用户。
 
-6. **[Centrifuge](https://centrifuge.io/)**
+2. **[Centrifuge](https://centrifuge.io/)**
    聚焦于企业融资的 RWA 平台，将发票、房地产等现实资产通过 NFT 表示并用于链上借贷，是 MakerDAO RWA 合作方之一。
 
-7. **[Maple Finance](https://maple.finance/)**
+3. **[Maple Finance](https://maple.finance/)**
    链上信贷平台，为机构和加密企业提供无抵押贷款，借贷行为链上透明，并支持代币化债务池。
 
-8. **[Goldfinch Finance](https://goldfinch.finance/)**
+4. **[Goldfinch Finance](https://goldfinch.finance/)**
    提供发展中国家真实企业的链上信贷渠道，结合社区担保机制，实现无抵押贷款在链上运行。
 
-9. **[TrueFi](https://truefi.io/)**
+5. **[TrueFi](https://truefi.io/)**
    一个无需抵押的链上借贷平台，强调信用评估与透明化流程，支持对机构放贷，整合 RWA 资产来源。
 
 
@@ -325,8 +341,8 @@ DeFi（去中心化金融）是一种基于区块链和智能合约技术构建�
     去中心化合约交易所，支持无需信任的杠杆交易、借贷和永续合约。
 4. [DEXtools](https://www.dextools.io/app/)
     Dex综合K线工具，提供去中心化交易所的实时数据和市场分析工具。
-5. [Defipulse](https://defipulse.com/)
-    Defi项目市场数据平台，追踪DeFi空间的总锁定价值（TVL）和其他关键指标。
+5. [DeFiLlama](https://defillama.com/)
+    多链 DeFi 数据平台，追踪各协议和公链的总锁定价值（TVL）、收益、交易量等关键指标。
 6. [APY](https://apy.top/)
     查看质押收益的工具，帮助用户了解不同DeFi项目的收益率。
 7. [Zapper](https://zapper.fi/)
@@ -342,6 +358,48 @@ DeFi（去中心化金融）是一种基于区块链和智能合约技术构建�
 
 这个列表提供了一系列DeFi领域内的重要工具和平台，它们各自提供不同的服务和功能，如交易、借贷、资产管理等，可以满足在去中心化金融领域内的各种需求。
 
+## 主流公链生态
+
+- 公链可以理解为承载钱包、代币和各种 DApp 的区块链网络。不同公链的地址、手续费和生态并不相同，新手没有必要一次研究全部，先弄清楚自己正在使用哪条链。
+
+1. **[Bitcoin](https://bitcoin.org/)**
+   最早也是最知名的区块链网络，主要用于 BTC 转账和价值存储。链上手续费使用 BTC 支付。
+2. **[Ethereum](https://ethereum.org/)**
+   智能合约和 DeFi 生态最成熟的公链之一，常见代币标准为 ERC-20，链上手续费使用 ETH 支付。
+3. **[Solana](https://solana.com/)**
+   交易速度快、手续费较低，覆盖 DeFi、NFT、Meme 和 DePIN 等生态，手续费使用 SOL 支付。
+4. **[BNB Smart Chain](https://www.bnbchain.org/)**
+   与币安生态联系紧密，常见代币标准为 BEP-20，手续费使用 BNB 支付。
+5. **[TRON](https://tron.network/)**
+   很多用户会使用 TRC-20 网络转账 USDT，链上资源和手续费规则与其他公链有所不同。
+6. **[Arbitrum](https://arbitrum.io/)**
+   以太坊 Layer 2 网络，兼容大量以太坊应用，手续费通常低于以太坊主网，并使用 ETH 支付。
+7. **[Base](https://www.base.org/)**
+   Coinbase 推出的以太坊 Layer 2，链上应用和用户数量增长较快，手续费使用 ETH 支付。
+8. **[Sui](https://sui.io/)**
+   使用 Move 语言的高性能公链，覆盖 DeFi、游戏等应用，手续费使用 SUI 支付。
+9. **[Aptos](https://aptosfoundation.org/)**
+   同样采用 Move 生态的公链，侧重高吞吐量和应用开发，手续费使用 APT 支付。
+10. **[TON](https://ton.org/)**
+    与 Telegram 生态结合较多，覆盖钱包、支付、游戏和 Mini App，手续费使用 TON 支付。
+
+## 区块浏览器
+
+- 区块浏览器相当于链上的公开账本查询工具，可以用交易哈希（TxID）、钱包地址或合约地址查询转账状态、手续费、余额和代币授权。交易迟迟不到账时，第一步通常就是到对应网络的浏览器查询。
+
+1. **[Etherscan](https://etherscan.io/)**：查询 Ethereum 主网交易、地址和合约。
+2. **[Solscan](https://solscan.io/)**：查询 Solana 交易、代币和钱包活动。
+3. **[BscScan](https://bscscan.com/)**：查询 BNB Smart Chain 上的交易和合约。
+4. **[TRONSCAN](https://tronscan.org/)**：查询 TRON、TRC-20 USDT 和账户资源。
+5. **[Arbiscan](https://arbiscan.io/)**：查询 Arbitrum One 网络交易。
+6. **[BaseScan](https://basescan.org/)**：查询 Base 网络交易和合约。
+7. **[SuiVision](https://suivision.xyz/)**：查询 Sui 网络账户、交易和对象。
+8. **[Aptos Explorer](https://explorer.aptoslabs.com/)**：查询 Aptos 网络交易和账户。
+9. **[TON Viewer](https://tonviewer.com/)**：查询 TON 网络地址和交易。
+10. **[Blockchair](https://blockchair.com/)**：支持 BTC 等多条区块链的综合查询。
+
+查询时要选对链。例如一笔 TRC-20 USDT 转账应该去 TRONSCAN 查询，而不是 Etherscan。区块浏览器只负责展示链上记录，任何主动私聊你并声称可以“加速到账”或“找回资产”的人都需要警惕。
+
 ## 跨链
 - 跨链技术是区块链领域内的一个重要发展方向，它允许不同的区块链网络之间进行信息和资产的交换，解决了区块链孤岛问题，促进了区块链生态系统的互联互通。
 当然，以下是整合后的跨链工具列表，包括您提到的三个工具以及其他补充的跨链平台和工具：
@@ -352,17 +410,15 @@ DeFi（去中心化金融）是一种基于区块链和智能合约技术构建�
   支持多种公链互跨，提供一个便捷的跨链交换平台，使用户能够轻松地在不同的区块链之间转移资产。
 2. **[Crosschaintool](https://tools.defieye.io/bridge/)**
   提供跨链手续费计算功能，帮助用户在进行跨链交易时预估所需的手续费，优化跨链交易成本。
-3. **[Anyswap](https://anyswap.exchange/swap#/bridge)**
-  一个支持多种币种跨链闪兑的平台，利用去中心化的方式实现不同区块链资产的互换。
-4. **[Polkadot](https://polkadot.network/)**
+3. **[Polkadot](https://polkadot.network/)**
   设计用于连接多个专用区块链，形成一个统一的网络，其跨链传输协议允许不同的区块链安全地交换消息和价值。
-5. **[Cosmos](https://cosmos.network/)**
+4. **[Cosmos](https://cosmos.network/)**
   通过其“互联区块链”的架构，致力于成为“区块链的互联网”，使不同的区块链能够互相通信。
-6. **[ChainBridge](https://github.com/ChainSafe/ChainBridge)**
+5. **[ChainBridge](https://github.com/ChainSafe/ChainBridge)**
   一个可定制的跨链桥解决方案，支持多种不同的区块链，允许数据和资产的双向流动。
-7. **[Wanchain](https://www.wanchain.org/)**
+6. **[Wanchain](https://www.wanchain.org/)**
   提供去中心化的金融基础设施，连接了不同的区块链网络，支持私有和跨链的智能合约执行，以及代币交换。
-8. **[Thorchain](https://thorchain.org/)**
+7. **[Thorchain](https://thorchain.org/)**
   一个去中心化的流动性协议，支持跨链交易，允许用户在不同加密货币间直接交换，无需中心化交易所。
 
 ### Layer-2与跨链桥接协议
@@ -481,6 +537,17 @@ DeFi（去中心化金融）是一种基于区块链和智能合约技术构建�
 
 ## 加密钱包
 - 选择正确的钱包对于保护加密资产至关重要。软件钱包提供便捷的交易和资产管理功能，适合日常使用；而硬件钱包提供了更高级别的安全性，更适合长期存储大额资产。在选择钱包时，根据需求、资产规模和对安全性的要求做出决定。
+
+### 钱包安全
+
+- 助记词和私钥就是钱包控制权，任何人拿到后都可以转走资产。不要截图、不要上传网盘，也不要发给所谓的客服或项目方。
+- 只从钱包官网下载 App 或浏览器扩展，搜索广告和群聊安装包很容易遇到假钱包。
+- 创建钱包后把助记词离线抄写并准备多份备份，分别放在安全的位置。不要只保存在一台手机或电脑里。
+- 连接 DApp 前先核对域名，看不懂的签名不要确认。参与新项目时，可以单独准备一个没有大额资产的小钱包。
+- 定期使用 [Revoke.cash](https://revoke.cash/) 检查并取消不再使用的代币授权。取消授权也需要支付对应网络的 Gas。
+- 转账前同时核对币种、网络、地址和 Memo/Tag，第一次向新地址转账一定先做小额测试。
+- 大额长期持有可以考虑硬件钱包，但硬件钱包也不能代替助记词备份和日常防钓鱼意识。
+
 ### 软件钱包
 
 1. **[Tokenpocket](https://www.tokenpocket.pro/)**
@@ -520,28 +587,24 @@ DeFi（去中心化金融）是一种基于区块链和智能合约技术构建�
   币安实验室是币安交易所的投资和孵化部门，专注于支持创新的区块链和加密货币项目，推动行业发展。
 2. **[Coinbase Ventures](https://www.coinbase.com/ventures#our-investments)**  
   Coinbase Ventures 是知名加密货币交易所 Coinbase 的风险投资部门，投资于加密货币和区块链技术的早期阶段项目。
-3. **[三箭资本 (Three Arrows Capital)](https://www.threearrowscap.com/select-investments/)**  
-  一个专注于加密货币和区块链技术投资的对冲基金，对多个重要项目有影响力投资。
-4. **[A16z](https://a16z.com/portfolio/#crypto)**  
+3. **[A16z](https://a16z.com/portfolio/#crypto)**
   安德森·霍洛维茨（Andreessen Horowitz）是硅谷的顶级风险投资公司之一，其加密基金专注于投资区块链技术和加密货币项目。
-5. **[Alameda Research](https://www.alameda-research.com/ventures)**  
-  由Sam Bankman-Fried创立，是一个量化交易公司和加密货币投资者，通过其风险投资部门投资于加密生态系统。
-6. **[Multicoin Capital](https://multicoin.capital/zh/portfolio/)**  专注于加密货币和区块链技术的全球性资产管理公司，投资于加密领域的创新项目和公司。
-7. **[Paradigm](https://www.paradigm.xyz/portfolio)**
+4. **[Multicoin Capital](https://multicoin.capital/zh/portfolio/)**  专注于加密货币和区块链技术的全球性资产管理公司，投资于加密领域的创新项目和公司。
+5. **[Paradigm](https://www.paradigm.xyz/portfolio)**
    知名加密原生投资机构，专注于支持早期 Web3 协议、基础设施和 DeFi 项目，曾投资 Uniswap、dYdX、EigenLayer 等。
-8. **[Pantera Capital](https://www.panteracapital.com/portfolio/)**
+6. **[Pantera Capital](https://www.panteracapital.com/portfolio/)**
    成立于 2013 年的老牌加密基金，覆盖比特币、DeFi、NFT、区块链基础设施等多个赛道。
-9. **[Dragonfly Capital](https://www.dragonfly.xyz/)**
+7. **[Dragonfly Capital](https://www.dragonfly.xyz/)**
    中美双总部的加密投资公司，连接东西方加密生态，投资项目包括 StarkWare、1inch、Matter Labs 等。
-10. **[Delphi Digital](https://www.delphidigital.io/research)**
+8. **[Delphi Digital](https://www.delphidigital.io/research)**
     以研究驱动的投资机构，深度参与协议设计与治理，旗下设有 Delphi Labs 孵化器。
-11. **[Electric Capital](https://www.electriccapital.com/portfolio)**
+9. **[Electric Capital](https://www.electriccapital.com/portfolio)**
     聚焦开发者生态和开源协议的风投机构，发布年度开发者报告影响广泛。
-12. **[Hashed](https://www.hashed.com/)**
+10. **[Hashed](https://www.hashed.com/)**
     韩国最大的加密风投机构之一，专注于 Web3 游戏、元宇宙与去中心化金融领域。
-13. **[Jump Crypto](https://jumpcrypto.com/)**
+11. **[Jump Crypto](https://jumpcrypto.com/)**
     Jump Trading 的加密部门，兼具投资与做市功能，深度参与 Solana、Wormhole 等基础设施建设。
-14. **[Spartan Group](https://www.spartangroup.io/portfolio)**
+12. **[Spartan Group](https://www.spartangroup.io/portfolio)**
     亚洲知名加密投行，专注于 DeFi、Web3 和 GameFi 项目，曾投资 StepN、dYdX 等项目。
 
 

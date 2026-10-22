@@ -107,13 +107,13 @@
 |                      | [@GaryGensler](https://twitter.com/GaryGensler)             | 前 SEC 主席；执法高压 | 对加密市场执法态度强硬，监管言论风向标。 |
 |                      | [@SenWarren](https://twitter.com/SenWarren)                 | 参议员；加密批评者 | 推动更严格 AML / KYC 立法，批评加密风险。 |
 | **政界 / 公众人物**  | [@elonmusk](https://twitter.com/elonmusk)                   | Tesla / X CEO，Dogecoin 推动者 | 推文常引发市场波动，关注 AI、支付与链上社交。 |
-|                      | [@realDonaldTrump](https://twitter.com/realDonaldTrump)     | 美国前总统；稳定币立法 & NFT | NFT 卡牌发行者，公开表达对加密创新的支持。 |
-|                      | [@RobertKennedyJr](https://twitter.com/RobertKennedyJr)     | 总统竞选人；比特币倡导者 | 竞选期间多次强调比特币自由与科技创新。 |
+|                      | [@realDonaldTrump](https://twitter.com/realDonaldTrump)     | 美国第 47 任总统；稳定币立法 & NFT | NFT 卡牌发行者，公开表达对加密创新的支持。 |
+|                      | [@RobertKennedyJr](https://twitter.com/RobertKennedyJr)     | 美国卫生与公众服务部部长；比特币倡导者 | 曾在总统竞选期间多次强调比特币自由与科技创新。 |
 |                      | [@JMilei](https://twitter.com/JMilei)                       | 阿根廷总统；比特币自由流通支持 | 自由主义经济观，公开称赞 BTC 抗通胀属性。 |
 |                      | [@nayibbukele](https://twitter.com/nayibbukele)             | 萨尔瓦多总统；比特币法定化先驱 | 推动 BTC 法定货币化与“比特币债券” 计划。 |
 | **传统金融 / ETF**  | [@jerallaire](https://twitter.com/jerallaire)               | Circle 联合创始 / USDC | 稳定币监管与全球支付网络布局的一线信息。 |
 |                      | [@Sonnenshein](https://twitter.com/Sonnenshein)             | 前 Grayscale CEO；GBTC 转 ETF | 推动现货 BTC ETF 成功落地的关键人物。 |
-| **科技 / 加密创新** | [@sama](https://twitter.com/sama)                           | OpenAI & Worldcoin 联合创始 | 探讨 AI 与加密身份结合的未来趋势。 |
+| **科技 / 加密创新** | [@sama](https://twitter.com/sama)                           | OpenAI 联合创始人；Tools for Humanity 联合创始人 | 探讨 AI 与加密身份结合的未来趋势。 |
 |                      | [@jack](https://twitter.com/jack)                           | Block CEO；Lightning 推广 | 支持比特币 Layer-2、Nostr 等去中心化社交。 |
 | **华语圈**          | [@WuBlockchain](https://twitter.com/WuBlockchain)           | 中英快讯 | 吴说区块链：爆料速度快、视野国际化。 |
 |                      | [@8BTCnews](https://twitter.com/8BTCnews)                   | 中文媒体 | “巴比特” 旗下账号，关注政策与技术文章。 |
