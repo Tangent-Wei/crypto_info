@@ -155,6 +155,8 @@
    去中心化数据索引协议，适合链上应用构建数据查询接口。
 15. **[Covalent](https://www.covalenthq.com)**
    多链数据 API 提供者，适合开发者快速集成链上查询。
+16. **[Chartscout](https://chartscout.io)** - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
+
 
 ## 空投任务与投研工具
 - 本板块收录了主流的 Web3 空投信息平台与交互型任务平台，帮助用户获取早期代币奖励、参与项目激励、积累链上声誉。适用于 **撸空投、投研分析、公会协作** 等场景。
