@@ -155,6 +155,8 @@
    去中心化数据索引协议，适合链上应用构建数据查询接口。
 15. **[Covalent](https://www.covalenthq.com)**
    多链数据 API 提供者，适合开发者快速集成链上查询。
+16. **[YieldScope](https://yieldscope.io/zh/)**
+   加密货币收益比较工具：每日同步 12 家交易所 Earn 利率与 DeFi 池收益，附 A–F 风险评级，支持简体／繁體中文。
 16. **[Chartscout](https://chartscout.io)** - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
 
 
