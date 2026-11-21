@@ -158,6 +158,8 @@
 16. **[YieldScope](https://yieldscope.io/zh/)**
    加密货币收益比较工具：每日同步 12 家交易所 Earn 利率与 DeFi 池收益，附 A–F 风险评级，支持简体／繁體中文。
 16. **[Chartscout](https://chartscout.io)** - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
+17. **[AsiaFee 亚洲能量](https://asiafee.com/)**
+    TRON 能量租赁，转 USDT（TRC20）前租好能量就不再燃烧 TRX。网站另有免费的转账手续费计算器和地址能量、带宽查询，不用注册。
 
 
 ## 空投任务与投研工具
