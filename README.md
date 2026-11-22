@@ -158,6 +158,8 @@
 16. **[YieldScope](https://yieldscope.io/zh/)**
    加密货币收益比较工具：每日同步 12 家交易所 Earn 利率与 DeFi 池收益，附 A–F 风险评级，支持简体／繁體中文。
 16. **[Chartscout](https://chartscout.io)** - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
+17. **[Coinpred](https://coinpred.com/zh/)**
+    BTC/ETH 短线技术分析工具：结合 K 线、订单簿深度和多项指标，给出五级方向判断、概率与置信度，并提供 Kronos K 线预测与公开的 TradingView 策略记录。有免费每日额度，仅供研究参考，不构成投资建议。
 
 
 ## 空投任务与投研工具
