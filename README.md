@@ -158,6 +158,8 @@
 16. **[YieldScope](https://yieldscope.io/zh/)**
    加密货币收益比较工具：每日同步 12 家交易所 Earn 利率与 DeFi 池收益，附 A–F 风险评级，支持简体／繁體中文。
 16. **[Chartscout](https://chartscout.io)** - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
+17. **[18btc](https://18btc.cc)**
+    币圈工具导航：人工实测收录行情数据、链上分析、DeFi、钱包与安全类工具，附站内免费看板（稳定币收益榜、代币解锁日历、预测市场赔率榜），全部免费、免注册。    
 
 
 ## 空投任务与投研工具
